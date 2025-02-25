@@ -1,5 +1,7 @@
-Hi there! I’m Srushti, currently a Research Assistant at IIT-Bombay, working on Many-body inspired quantum circuit compactification and associated error mitigation. I graduated a few months back from IISER Tirupati with a MS in Physics. My research interests are in the areas of Quantum Algorithms, Quantum ML, and Quantum Cryptography.
+Hello there! I’m Srushti, a PhD student at Niels Bohr Institute, University of Copenhagen working in Quantum Algorithms and Error Correction.
 
-During my MS thesis at IISER Kolkata, I worked on two novel measurement-based clustering algorithms are proposed based on quantum parallelism and entanglement, successfully applying both algorithms on data sets where the classical clustering approach fails. Previously, I have interned at TCG CREST and IBM Research. At TCG CREST, I worked on an efficient algorithm to estimate with a small but non-zero probability of error the output state of the experiment using a single copy of the state, without knowing the evolution dynamics of the state. It also does not destroy the original state, which can be recovered easily for any further quantum processing. At IBM, I worked on developing a hybrid quantum-classical graph neural network (GNN) for tumor classification in digital pathology.
+Previously I was a research assistant at IIT-Bombay, working on Many-body-inspired quantum circuit compactification and associated error mitigation. I graduated a few months back from IISER Tirupati with an MS in Physics.
 
-I was fortunate to recieve these experiences which have helped shape my trajectory as a researcher. Next stop: Complete my PhD :)
+During my MS thesis at IISER Kolkata, I worked on measurement-based clustering algorithms. At IBM, I worked on developing a hybrid quantum-classical graph neural network (GNN) for tumor classification in digital pathology.
+
+I was fortunate to receive these experiences which helped shape my trajectory as a researcher. Next stop: Complete my PhD :)
