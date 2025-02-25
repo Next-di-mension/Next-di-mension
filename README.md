@@ -2,4 +2,4 @@ Hi there! I’m Srushti, currently a Research Assistant at IIT-Bombay, working o
 
 During my MS thesis at IISER Kolkata, I worked on two novel measurement-based clustering algorithms are proposed based on quantum parallelism and entanglement, successfully applying both algorithms on data sets where the classical clustering approach fails. Previously, I have interned at TCG CREST and IBM Research. At TCG CREST, I worked on an efficient algorithm to estimate with a small but non-zero probability of error the output state of the experiment using a single copy of the state, without knowing the evolution dynamics of the state. It also does not destroy the original state, which can be recovered easily for any further quantum processing. At IBM, I worked on developing a hybrid quantum-classical graph neural network (GNN) for tumor classification in digital pathology.
 
-I was fortunate to recieve these experiences which have helped shape my trajectory as a researcher. Next stop: PhD? Yepp!
+I was fortunate to recieve these experiences which have helped shape my trajectory as a researcher. Next stop: Complete my PhD :)
